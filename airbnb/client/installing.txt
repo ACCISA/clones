@@ -1,0 +1,8 @@
+1. to create the project:
+yarn create vite client
+
+2. cd client
+3. yarn
+
+yarn add tailwindcss postcss autoprefixer
+npx tailwindcss init -p
